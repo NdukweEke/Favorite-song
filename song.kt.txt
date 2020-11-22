@@ -1,0 +1,38 @@
+//This file contain the attributes describing my favorite song "JERUSALEM".
+
+
+//Title
+
+val SongTitle: string = "Jerusalema"
+
+//Artist
+
+val ArtistName: string = "Master KG"
+
+//Year Released
+
+val YearReleased: int = 2019
+
+//Date of recording
+
+val RecordingDate: int = 2019 
+
+//Genre
+
+var MusicGenre: string = "Gosple"
+
+//Format
+
+var songformat: string = "audio/video"
+
+//Size
+
+var TrackSize: double = 7.89MB
+
+//Duration
+
+var SongDuration: double = 5:41
+
+//Featured Artist
+
+var AnyFeaturedArtist: Boolean =  yes
